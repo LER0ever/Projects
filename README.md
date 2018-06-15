@@ -13,7 +13,12 @@ _Currently I'm still busy migrating my projects one-by-one from Github/Gitlab to
 #### [Server-Manifests](/LER0ever/Server-Manifests): Documentation and code to setup a swarm that powers my various web services including this one.
 #### [EverVim](/LER0ever/EverVim): A Modern, Powerful & Modular Vim Distribution
 #### [LER0ever/Space](/): My new website & blog (://rongyi.io main site in the future)
+#### [Caffeinated-Enchilada](/): A highly optimized kernel based on blu_spark for OnePlus 6
 #### [EvDev](/LER0ever/EvDev): Full-Featured Dockerized Development Environment
+#### [Hackintosh](/LER0ever/Hackintosh): Drivers & DSDT Injection code for running macOS on PC (Hackintosh)
+#### [Presentations](/LER0ever/Presentations): Slides, code, documents for my presentations
+#### [dotfiles](/LER0ever/dotfiles): Personal dotfiles backup. Unix Porn!
+#### [ImageGrid](/LER0ever/ImageGrid): 图像一键九宫格裁剪，用于发送QQ空间、微信、微博拼接大图
 #### [AOSC-DBK](/LER0ever/AOSC-DBK): Dockerized Buildkit for whatever
 #### [AOSC.vim](/LER0ever/AOSC.vim): Vim plugin that makes whatever packaging life easier
 
