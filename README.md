@@ -10,7 +10,7 @@ Therefore this serves as a "link hub" to direct you to my other projects.
 
 _Currently I'm still busy migrating my projects one-by-one from Github/Gitlab to here. Below is an list of them that are already here._
 
-#### [Server-Manifests](/LER0ever/Server-Manifests): Documentation and code to setup a swarm that powers my various web services including this one.
+#### [Swarm-Manifests](/LER0ever/Swarm-Setup): Documentation and code to setup a swarm that powers my various web services including this one.
 #### [EverVim](/LER0ever/EverVim): A Modern, Powerful & Modular Vim Distribution
 #### [LER0ever/Space](/): My new website & blog (://rongyi.io main site in the future)
 #### [Caffeinated-Enchilada](/): A highly optimized kernel based on blu_spark for OnePlus 6
