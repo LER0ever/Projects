@@ -2,7 +2,8 @@
 * * *
 ### About this server
 This is my own [Gitea](https://gitea.io) instance running on a swarm/cluster of three Vultr servers, a desktop, and a laptop.  
-You should be visiting this using [https://code.rongyi.io](https://code.rongyi.io) or [https://git.rongyi.io](https://git.rongyi.io), as they are the only two _official_ address of my git hosting.
+You should be visiting this using [https://code.rongyi.io](https://code.rongyi.io) or [https://git.rongyi.io](https://git.rongyi.io), as they are the only two _official_ address of my git hosting.  
+Server swarm status can be checked at [swarm.rongyi.io](https://swarm.rongyi.io) and each individual server status is at port 19999.
 
 ### My Projects
 I have a lot more code than you think I do :)  
