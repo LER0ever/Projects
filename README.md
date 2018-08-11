@@ -5,6 +5,10 @@ This is my own [Gitea](https://gitea.io) instance running on a swarm/cluster of 
 You should be visiting this using [https://code.rongyi.io](https://code.rongyi.io) or [https://git.rongyi.io](https://git.rongyi.io), as they are the only two _official_ address of my git hosting.  
 Server swarm status can be checked at [swarm.rongyi.io](https://swarm.rongyi.io) and each individual server status is at port 19999.
 
+| Repository   | L.E.R Code                                                                                   | GitLab                                                                               | Github                                                                                  |
+| :---:        | :---:                                                                                        | :---:                                                                                | :---:                                                                                   |
+| Mirror Links | [![L.E.R Code](https://i.imgur.com/GUOHP8J.jpg)](https://code.rongyi.io/LER0ever/Projects) | [![Gitlab](https://i.imgur.com/N98H7NZ.png)](https://gitlab.com/LER0ever/Projects) | [![MS Github](https://i.imgur.com/MSiHESF.png)](https://github.com/LER0ever/Projects) |
+
 ### My Projects
 I have a lot more code than you think I do :)  
 Therefore this serves as a "link hub" to direct you to my other projects.
